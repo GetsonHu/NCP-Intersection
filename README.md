@@ -5,5 +5,6 @@
 - Downloader needs to send an email to us and apply for decompression password. The email address is yuanxia@njust.edu.cn. Downloader shouldn't share with others in any form without permission.
 
 # Detection effects
- ![image]( https://github.com/GetsonHu/NJUST-Intersection/tree/main/resources/video.gif)
-
+<p align='center'>
+    <img src="https://github.com/GetsonHu/NJUST-Intersection/tree/main/resources/video.gif" alt="drawing" width="1000"/>
+</p>
