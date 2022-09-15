@@ -6,5 +6,5 @@
 
 # Detection effects
 <p align='center'>
-    <img src="resources/video.gif" alt="drawing" width="600"/>
+    <img src="/resources/video.gif" alt="drawing" width="600"/>
 </p>
